@@ -7,7 +7,6 @@
 
 import Foundation
 import SwiftUI
-import Combine
 
 struct GestureRecapModel: Identifiable, Hashable {
   var icon: String
