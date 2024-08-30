@@ -7,6 +7,7 @@
 
 import Foundation
 import SwiftUI
+import Combine
 
 struct MorseSymbol: Hashable {
   let symbol: Character
