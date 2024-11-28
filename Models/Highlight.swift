@@ -5,7 +5,6 @@
 //  Created by Timon Harz on 25.02.24.
 //
 
-import Foundation
 import SwiftUI
 
 struct Highlight: Identifiable, Equatable {
