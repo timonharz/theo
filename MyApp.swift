@@ -1,5 +1,5 @@
 import SwiftUI
-import Foundation 
+
 
 @main
 struct TheoApp: App {
